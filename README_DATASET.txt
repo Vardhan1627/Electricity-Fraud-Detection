@@ -1,0 +1,1 @@
+Put the downloaded SGCC Kaggle CSV in data/raw/ and update DATA_FILE in config.py with the exact filename.
