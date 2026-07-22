@@ -1,6 +1,12 @@
 # AI-Based Electricity Fraud Detection and Inspection Prioritization System
 
-End-to-end project: SGCC electricity consumption data -> preprocessing -> feature engineering -> ML fraud model -> rule engine -> risk scoring -> Streamlit app -> SQL/Power BI.
+End-to-end project: 
+SGCC electricity consumption data 
+-> preprocessing -> feature engineering 
+-> ML fraud model -> rule engine 
+-> risk scoring 
+-> Streamlit app 
+-> SQL/Power BI.
 
 ## Setup
 1. Put the downloaded SGCC CSV in `data/raw/`.
